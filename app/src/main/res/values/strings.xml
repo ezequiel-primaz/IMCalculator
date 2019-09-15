@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">IMCalculator</string>
+    <string name="app_calcular">Calcular</string>
+    <string name="app_formato_peso">Em Quilogramas</string>
+    <string name="app_formato_altura">Em metros</string>
+    <string name="app_altura">Altura:</string>
+    <string name="app_header">Calcule seu IMC</string>
+    <string name="app_peso">Peso:</string>
+    <string name="app_resultado_header">RESULTADO</string>
+    <string name="app_imc">IMC:</string>
+    <string name="app_sua_categoria">Categoria:</string>
+    <string name="app_sobre_esta_categoria">Sobre esta categoria:</string>
+
+    <string name="app_magreza_grave_desc">IMC abaixo de 16 aponta magreza grave e pode causar insuficiência cardíaca, anemia grave e enfraquecimento do sistema imunológico.\n\nCaracterizada por um IMC abaixo de 16, a magreza grave é uma condição que pode ser causada por desnutrição severa. Consulte um médico, pois esse peso é uma ameaça à saúde.</string>
+    <string name="app_magreza_moderada_desc">IMC entre 16 e 17 aponta magreza moderada, o que pode levar à infertilidade, queda de cabelo e falta de menstruação.\n\nCondições hormonais, como o hipertireoidismo, podem afetar o peso de uma pessoa, além de parasitas ou simplesmente uma dieta com poucas calorias diárias. Você pode consultar um médico para ter certeza de que não tem nada de errado.</string>
+    <string name="app_magreza_leve_desc">IMC entre 17 e 18,5 aponta magreza leve, o que pode resultar em estresse, ansiedade e fadiga.\n\nPode ter algumas consequências, mas no geral não é preocupante. Um IMC acima de 17 não fica muito longe do saudável.</string>
+    <string name="app_saudavel_desc">IMC entre 18,5 e 25 é considerado saudável, apresentando menor risco para doenças.\n\nEssa classificação garante um risco menor para diversas doenças que variam de anemia a infarto. Estar nessa classificação é estar no peso ideal para seu corpo, mas é bom lembrar de verificar a circunferência da cintura em busca de excesso de gordura.\n\nPara mulheres, a cintura deve ter até 80 cm. Para homens, até 94 cm. A cintura deve ser medida logo abaixo das costelas.</string>
+    <string name="app_sobrepeso_desc">IMC entre 25 e 30 indica sobrepeso, podendo levar à fadiga, varizes e má circulação.\n\nO Sobrepeso pode causar alguns problemas de circulação no corpo, além de fadiga, se o IMC estiver pouco acima de 25, não é preocupante. Uma dieta com um pouco menos de calorias ou um pouco mais de exercícios na rotina pode resolver a situação.</string>
+    <string name="app_obesidade_i_desc">IMC entre 30 e 35 aponta obesidade de grau I, podendo resultar em diabetes, infarto, angina e aterosclerose.\n\nAcima do IMC 30 a pessoa é considerada obesa, o que por si só já é uma doença. Graças ao peso, o risco para diversas condições aumenta consideravelmente. Um médico pode indicar um meio ideal para a regulação do peso.</string>
+    <string name="app_obesidade_ii_desc">IMC entre 35 e 40 indica obesidade de grau II (severa), podendo causar falta de ar e apneia do sono.\n\nEstar com obesidade grau II é ter riscos elevados de diabetes, hipertensão, além de câncer e infarto. Procure um médico para lidar com a situação.</string>
+    <string name="app_obesidade_iii_desc">IMC acima de 40 aponta obesidade de grau III (mórbida), podendo levar à refluxo, infartos, AVC, dificuldades de locomoção e escaras.\n\nChamada de obesidade mórbida, esta condição representa sérios riscos à saúde. Procure ajuda médica.</string>
+
+    <string name="app_magreza_leve">Magreza Grave</string>
+    <string name="app_magreza_moderada">Magreza Moderada</string>
+    <string name="app_magreza_grave">Magreza Grave</string>
+    <string name="app_saudavel">Saudável</string>
+    <string name="app_sobrepeso">Sobrepeso</string>
+    <string name="app_obesidade_i">Obesidade de grau I</string>
+    <string name="app_obesidade_ii">Obesidade de grau II (Severa)</string>
+    <string name="app_obesidade_iii">Obesidade de grau III (Mórbida)</string>
+
+    <string name="app_error_message">Por favor, preencha os campos com valores válidos.</string>
+</resources>
